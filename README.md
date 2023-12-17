@@ -4,7 +4,8 @@
 ## Features
 @ Add new notes by simply entering a title and the note.
 @ Delete existing notes.
-@ 
+@ Easy to use
+@ simple UI/UX
 
 ## How to run this locally?
  Clone this repository
